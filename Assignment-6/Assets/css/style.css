@@ -1,0 +1,103 @@
+
+@font-face {
+    font-family: edo;
+    src: url('../font/edo.ttf');
+  }
+
+.contactFont{
+    font-family: edo;
+    font-size: 2.5vw;
+}
+
+
+.homebg{
+    background-image: url('../img/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vw;
+}
+
+h1{
+    font-family: edo;
+    font-size: 4vw;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 2vw;
+}
+    
+.Home {
+    padding-top: 10vw;
+}
+
+.myImage{
+    height: 44vw;
+    width: 25vw;
+    border-radius: 5px;
+    background-image: url('../img/myImage.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+.aboutName{
+    font-family: edo;
+    font-size: 2.5vw;
+}
+
+
+.mySkills{
+    font-family: edo;
+    font-size: 2.5vw;
+}
+
+.skill{
+    margin-top: 20px;
+}
+
+.img1{
+    background-image: url('../img/ashwin-patil-J2jyoGGaCZY-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-attachment: fixed;
+    top: 215px;
+  }
+
+.workImg1{
+    border-radius: 20px;
+    width:100%;
+    height:auto;
+    margin-right: 0;
+    padding: 0;
+    margin-bottom: 15px;
+  }
+  
+.workImg2{
+    border-radius: 20px;
+    width:100%;
+    height:auto;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+  }
+
+  .paratext{
+    font-family: edo;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    top:220px;
+    position: relative;
+  }
+
+  .contactName{
+    font-family: edo;
+    font-size: 2.5vw;
+    margin-top: 15vh;
+    
+}
+
